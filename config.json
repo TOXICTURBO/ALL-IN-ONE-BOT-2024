@@ -2,7 +2,7 @@
     "token": "MTI3NDc0MDgwMjI0MDc3NDE1NQ.Gqo516.OlwNPrRYx0FgHEWdoa8hvspGy_pq0dTJ6k8l9Y",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://turboapis:<password>@cluster0.x1orsmp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "mongodbUri": "mongodb+srv://turboapis:1uOfwx8aK6H7Lt7M@cluster0.x1orsmp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
